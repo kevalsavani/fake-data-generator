@@ -1,0 +1,14 @@
+{
+  "name": "fake-data-generator",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/kevalsavani/fake-data-generator.git",
+  "author": "Keval Savani <keval.savani@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/node": "^20.14.8",
+    "typescript": "^5.5.2",
+    "xlsx": "^0.18.5"
+  }
+}
